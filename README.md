@@ -21,4 +21,4 @@ Notes:
 	 EX stage which perform all the arithmetic and logic operations.
 
 3) Logic to check data dependencies has been included in Decode/RF stage."# APEX-Pipeline-In_order_simulator" 
-"# APEX-Pipeline-Out_of_order_simulator" 
+"# APEX-Pipeline- In_order_simulator" 
